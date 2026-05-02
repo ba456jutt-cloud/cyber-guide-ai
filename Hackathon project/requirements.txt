@@ -1,0 +1,15 @@
+gradio>=4.0.0
+huggingface_hub
+google-generativeai
+python-whois
+requests
+beautifulsoup4
+Pillow
+fastapi
+uvicorn
+python-multipart
+cachetools
+sqlalchemy
+groq
+fpdf2
+python-dotenv
