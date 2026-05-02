@@ -1,11 +1,3 @@
----
-title: Cyber Guider AI
-emoji: 🛡️
-colorFrom: indigo
-colorTo: purple
-sdk: docker
-pinned: false
----
 
 # 🛡️ Cyber Guider AI: Empowering Pakistan Against Digital Scams
 ### *Winner - Hackathon Innovation Excellence* 🏆
